@@ -3,7 +3,7 @@ parentdir="$(dirname "$dir")"
 parentdir="$(dirname "$parentdir")"
 
 ### Values to change -start ###
-wav_path="path to wav files"
+wav_path="../../data/raw_2/somenicename/"
 valid_percentage=0.1
 ### Values to change -end ###
 

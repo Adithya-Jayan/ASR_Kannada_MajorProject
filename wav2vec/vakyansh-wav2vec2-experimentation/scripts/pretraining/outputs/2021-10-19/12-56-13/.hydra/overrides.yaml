@@ -1,0 +1,7 @@
+- distributed_training.distributed_port=-1
+- task.data=/home/adithya/Documents/AudioProcessing_Major_Project/wav2vec/vakyansh-wav2vec2-experimentation/data/pretraining
+- distributed_training.distributed_world_size=0
+- +optimization.update_freq=[]
+- +common.tensorboard_logdir=/home/adithya/Documents/AudioProcessing_Major_Project/wav2vec/vakyansh-wav2vec2-experimentation/logs/pretraining/tensorboard
+- checkpoint.save_dir=/home/adithya/Documents/AudioProcessing_Major_Project/wav2vec/vakyansh-wav2vec2-experimentation/checkpoints/pretraining
+- checkpoint.restore_file=/home/adithya/Documents/AudioProcessing_Major_Project/wav2vec/vakyansh-wav2vec2-experimentation/checkpoints/pretraining/hindi_pretrained.pt

@@ -4,7 +4,7 @@
 ### Variables to change - start ###
 
 config_name='wav2vec2_base_librispeech' 
-gpus=4
+gpus=0
 run_in_nohup=0  #0 for no, 1 for yes
  
 ### Variables to change - end ###
