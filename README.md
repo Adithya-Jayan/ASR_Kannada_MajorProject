@@ -1,4 +1,4 @@
-# Audio preocessing major project 
+# Audio processing major project 
 #### Adithya Jayan | Anvith M | Shreenidhi Bhat
 
 
