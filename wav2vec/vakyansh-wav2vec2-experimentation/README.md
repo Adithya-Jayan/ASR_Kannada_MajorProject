@@ -229,3 +229,7 @@ Refer [this](scripts/lm/README.md) for LM pipeline.
 # License
 
 fairseq(-py) is MIT-licensed. The license applies to the pre-trained models as well.
+
+# Links
+Vakyansh
+https://github.com/Adithya-Jayan/ASR_Kannada_MajorProject/tree/main/wav2vec/vakyansh-wav2vec2-experimentation
